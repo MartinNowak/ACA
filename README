@@ -1,0 +1,5 @@
+Prerequisites:
+        - recent dmd compiler http://www.digitalmars.com/
+        - for plotting python with installed pylab
+
+Build using make or with "dmd -ofmain *.d".

@@ -1,0 +1,15 @@
+# dmd output
+*.obj
+*.map
+*.deps
+*.o
+
+# emacs tmpfiles
+*~
+
+# build dirs
+bin*/
+lib*/
+import/
+doc/
+.unittest*/
